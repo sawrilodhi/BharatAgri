@@ -1,0 +1,36 @@
+
+ 
+ .collapse name ul li a{
+    padding-left: 16px;
+    text-decoration: none;
+}
+
+footer{
+    display: flexbox;
+}
+
+.display-4 {
+    
+  background-color: white;
+  }
+  .navbar a{
+      font-size: medium;
+  }
+  table,tr, td{
+    border: 1px solid black;
+    border-top:1px solid black ;
+
+  }
+  .text{
+    display: grid;
+    grid-row:1;
+    grid-column:3;
+    grid-template-columns: 1fr,1fr 1fr;
+    grid-template-columns: 1fr;
+  }
+  .social{
+    display: block;
+    width: 20%;
+    margin: auto;
+    }
+  
